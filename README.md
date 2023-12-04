@@ -19,7 +19,8 @@ res_bar.addEventListener('click',() => {
 })
 ```
 ![alt text](./responsive1.png)
+![alt text](./responsive2.png)
+![alt text](./responsive3.png)
 
-<img src="./responsive1.png" alt="alt text" width="50%" height="180">
 
   
