@@ -18,11 +18,6 @@ res_bar.addEventListener('click',() => {
     else close_menu()
 })
 ```
-  
-## Tools-Languages
 
-**Tool:** Font-Awesome
-
-**Languages:** Html,Css,Javascript
 
   
