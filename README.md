@@ -20,4 +20,6 @@ res_bar.addEventListener('click',() => {
 ```
 
 
+<img src="./responsive1.png" alt="alt text" width="320" height="180">
+
   
