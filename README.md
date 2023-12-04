@@ -18,7 +18,7 @@ res_bar.addEventListener('click',() => {
     else close_menu()
 })
 ```
-
+![alt text](./responsive1.png)
 
 <img src="./responsive1.png" alt="alt text" width="320" height="180">
 
