@@ -4,7 +4,7 @@
 Optimize your website for all platforms.In this project, a simple responsive navbar example is made.Navbar is indispensable for websites.Mobilize your website.
 
 
-## javascript Code Example
+## Javascript Code Example
 
 ```javascript
 res_bar.addEventListener('click',() => {
