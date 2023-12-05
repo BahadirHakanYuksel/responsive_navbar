@@ -21,8 +21,10 @@ res_bar.addEventListener('click',() => {
 ![alt text](./responsive1.png)
 
 
-<center><img src="./responsive2.png" alt="alt text"></center>
-<center><img src="./responsive3.png" alt="alt text"></center>
+<table>
+<li><img src="./responsive2.png" alt="alt text"></li>
+<li><img src="./responsive3.png" alt="alt text"></li>
+</table>
 
 
 
