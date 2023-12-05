@@ -21,11 +21,10 @@ res_bar.addEventListener('click',() => {
 ![alt text](./responsive1.png)
 
 
-<table style = "list-style : none">
-<li><img src="./responsive2.png" alt="alt text"></li>
-<li><img src="./responsive3.png" alt="alt text"></li>
-</table>
-
+<div style = "display:grid; grid-template-columns:repeat(1,3fr)">
+<img src="./responsive2.png" alt="alt text">
+<img src="./responsive3.png" alt="alt text">
+</div>
 
 
 
